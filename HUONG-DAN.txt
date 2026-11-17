@@ -1,0 +1,15 @@
+WORDSLAYER - CHIẾN BINH DIỆT TỪ (bản học tiếng Anh v.1)
+Phát triển bởi Trần Nhựt Trường (Mr.School)
+
+CÁCH CHƠI THỬ
+- Mở file index.html bằng Chrome, Edge hoặc Safari là chơi được ngay.
+- Cần Internet để tải font chữ (không có Internet vẫn chạy, chỉ khác kiểu chữ).
+
+CÁCH ĐƯA LÊN MẠNG
+- Netlify: vào app.netlify.com/drop rồi kéo thả cả thư mục wordslayer vào.
+- GitHub Pages hoặc hosting bất kỳ: tải file index.html lên thư mục gốc.
+
+LƯU Ý
+- Kỷ lục và lựa chọn chủ đề, cấp độ được lưu trong trình duyệt của từng máy.
+- Chế độ "Nghe phát âm" cần trình duyệt có giọng đọc tiếng Anh.
+- Từ vựng gồm bộ 60 chủ đề cũ (cấp A1-B2 ước lượng theo độ phổ biến) và 2.000 từ B2-C1 (cấp chuẩn).
