@@ -12,4 +12,11 @@ CÁCH ĐƯA LÊN MẠNG
 LƯU Ý
 - Kỷ lục và lựa chọn chủ đề, cấp độ được lưu trong trình duyệt của từng máy.
 - Chế độ "Nghe phát âm" cần trình duyệt có giọng đọc tiếng Anh.
+- Nhạc nền đã nhúng sẵn trong index.html; bật/tắt bằng nút 🎵 trong game hoặc ô "Nhạc nền" ở menu.
 - Từ vựng gồm bộ 60 chủ đề cũ (cấp A1-B2 ước lượng theo độ phổ biến) và 2.000 từ B2-C1 (cấp chuẩn).
+
+NHÂN VẬT (SPRITE PNG)
+- Ảnh gốc: assets/characters/player_sheet_original.png (không chỉnh sửa).
+- Các khung đã cắt (nền trong suốt): assets/characters/player_*.png (idle, run1-5, atk1-4, atkB1-4, hurt, down, win).
+- Trong index.html các khung được nhúng sẵn ở PLAYER_FRAMES; thêm animation mới ở PLAYER_ANIMS và hàm playerAnim().
+- Phím: mũi tên/WASD di chuyển, 1-4 chọn đáp án, 5 gợi ý, 6 đóng băng.
