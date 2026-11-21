@@ -20,3 +20,7 @@ NHÂN VẬT (SPRITE PNG)
 - Các khung đã cắt (nền trong suốt): assets/characters/player_*.png (idle, run1-5, atk1-4, atkB1-4, hurt, down, win).
 - Trong index.html các khung được nhúng sẵn ở PLAYER_FRAMES; thêm animation mới ở PLAYER_ANIMS và hàm playerAnim().
 - Phím: mũi tên/WASD di chuyển, 1-4 chọn đáp án, 5 gợi ý, 6 đóng băng.
+
+VŨ KHÍ
+- Ảnh gốc: assets/weapons/weapons_sheet_original.png. Các vũ khí và hiệu ứng đã tách (nền trong suốt) nằm cùng thư mục.
+- Chọn vũ khí ở menu trước khi chơi. Thêm vũ khí mới: thêm ảnh vào WIMG và 1 dòng vào WPN trong index.html.
